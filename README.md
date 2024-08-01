@@ -2,4 +2,4 @@
 meu nome é Samuel estou estudando no alura
 Estou desevlolvendo a linguagem JavaScript
 Uso ese espaço para organizr meus projetos
-https://media1.tenor.com/m/TLhWkKdr770AAAAd/giga-chad.gif
+![Giga Chad GIF](https://media1.tenor.com/m/TLhWkKdr770AAAAd/giga-chad.gif)
