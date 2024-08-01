@@ -7,4 +7,4 @@ Uso ese espaço para organizr meus projetos
 
 
 
-![Mob Psycho Rage GIF](https://media1.tenor.com/m/wjoKoJruEJYAAAAC/mob-psycho-rage.gif)
+![Terraria Moon Lord GIF](![image](https://github.com/user-attachments/assets/d0586a15-c93f-4759-ab91-4d2d40809bad)
