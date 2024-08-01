@@ -1,10 +1,6 @@
-###**BOAS VINDAS AO MEU PERFIL😲
-meu nome é Samuel estou estudando no alura
-Estou desevlolvendo a linguagem JavaScript
-Uso ese espaço para organizr meus projetos
-
-
-
-
-
-![Terraria Moon Lord GIF](![image](https://github.com/user-attachments/assets/d0586a15-c93f-4759-ab91-4d2d40809bad)
+#BOAS VINDAS AO MEU PERFIL 💙
+Meu nome é Karina 
+Estou estudando no Alura
+Estou desenvolvendo a Linguagem JavaScript
+Uso este espaço para organizar meus projetos
+![dm4uz3-foekoe](https://github.com/user-attachments/assets/6103d85e-2ab2-44ad-8f2b-4072756c60c4)
