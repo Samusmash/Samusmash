@@ -1,5 +1,5 @@
 #BOAS VINDAS AO MEU PERFIL 💙
-Meu nome é Karina 
+Meu nome é Lenda Viva
 Estou estudando no Alura
 Estou desenvolvendo a Linguagem JavaScript
 Uso este espaço para organizar meus projetos
